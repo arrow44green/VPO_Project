@@ -39,10 +39,7 @@ You can install the dependencies using the following command:
 pip install -r requirements.txt
 
 ## Installation
-  Clone this repository to your local machine:
-  git clone https://votre-repo.git
-
-  Navigate to the project directory:
+    Navigate to the project directory:
   cd VPO_Project
 
   Install the required dependencies:
